@@ -6,7 +6,7 @@ Python script that shutdown or reboot raspberry pi from gpio pins
 
 PREREQUISITES:
 ==============
-Run this commands to install dependencies: 
+Run this commands to install dependencies:
  sudo apt-get install python-dev
  wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.4.1a.tar.gz
  tar xvfz RPi.GPIO-0.4.1a.tar.gz
